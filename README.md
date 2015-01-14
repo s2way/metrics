@@ -11,7 +11,7 @@
 - Description
 - Owner
 - Copied From
-- # Copies
+- Copies
 - Creation
 
 ### Groups
